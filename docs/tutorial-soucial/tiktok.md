@@ -4,8 +4,10 @@ sidebar_position: 1
 
 # Soucial TikTok
 
-**Use: **https://api-tikget.herokuapp.com/?url= `link_video_url`
-
+**SEACRCH VIDEO**
+```jsx title="API Endpoint:"
+    https://api-tikget.herokuapp.com/?url=`link_video_url`
+```
 ## Return data
 
 ```jsx title="https://api-tikget.herokuapp.com/?url=https://www.tiktok.com/@h_chaukiuu/video/7036389476976889090?sender_device=pc&sender_web_id=7018051020598380033&is_from_webapp=v1&is_copy_url=0"
