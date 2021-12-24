@@ -9,7 +9,7 @@ Let's discover **API in less than 5 minutes**.
 ## Get Soucial
 Keyword: facebook, instagram, tiktok, youtube.
 ```shell
-GET: http://api-nguyenmanh.name.vn/keyword?url=url
+GET: https://mzkil-api.herokuapp.com/`keyword`?url=`url`
 ```
 ## Random Images
 Keyword: girl, ausand, mong, du, naughty...
@@ -19,10 +19,10 @@ GET: https://imgs-api.herokuapp.com
 
 ## Game
 
-Keyword: dhbc, dovui...
+Keyword: dhbc, dovui, linkword...
 
 ```shell
-GET: http://api-nguyenmanh.name.vn/keyword?url=url
+GET: https://mzkil-api.herokuapp.com/`keyword`?url=`url`
 ```
 
 ## Other
@@ -30,5 +30,5 @@ GET: http://api-nguyenmanh.name.vn/keyword?url=url
 Keyword: anime, nhentai...
 
 ```shell
-GET: http://api-nguyenmanh.name.vn/keyword?url=url
+GET: https://mzkil-api.herokuapp.com/`keyword`?url=`url`
 ```
