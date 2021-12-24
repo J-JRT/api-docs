@@ -4,7 +4,9 @@ sidebar_position: 1
 
 # Covid
 
-
+```jsx title="API Endpoint:"
+    https://mzkil-api.herokuapp.com/covid/country?=`keyword`
+```
 ## Return data
 ```jsx title="https://mzkil-api.herokuapp.com/covid?country=viet%20nam"
 {
