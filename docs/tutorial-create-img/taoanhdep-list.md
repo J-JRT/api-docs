@@ -4,9 +4,9 @@ sidebar_position: 7
 # List Taoanhdep
 
 
-**Use: **https://mzkapi.me/taoanhdep/list
+**Use: **http://mzkapi.me/taoanhdep/list
 
-```jsx title="https://mzkapi.me/taoanhdep/avatarwibu?id=5&chu_nen=phamvandien&chu_ky=d-jukie"
+```jsx title="http://mzkapi.me/taoanhdep/avatarwibu?id=5&chu_nen=phamvandien&chu_ky=d-jukie"
 {
     "listAnime": [
         {

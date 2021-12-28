@@ -4,9 +4,9 @@ sidebar_position: 8
 # Search Taoanhdep
 
 
-**Use: **https://mzkapi.me/taoanhdep/listsearch?key= `keyword`
+**Use: **http://mzkapi.me/taoanhdep/listsearch?key= `keyword`
 
-```jsx title="https://mzkapi.me/taoanhdep/search?key=Pika"
+```jsx title="http://mzkapi.me/taoanhdep/search?key=Pika"
 {
     "search": {
         "name": "Pikachu",

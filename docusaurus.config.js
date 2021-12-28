@@ -89,6 +89,22 @@ const config = {
                         },
                     ],
                 },
+                {
+                    title: 'Contact',
+                    items: [{
+                            label: 'Facebook',
+                            href: 'https://facebook.com/manhict',
+                        },
+                        {
+                            label: 'Zalo',
+                            href: 'https://zalo.me/0865983826',
+                        },
+                        {
+                            label: 'Mail',
+                            href: 'mailto:nguyenmanhict@gmail.com',
+                        },
+                    ],
+                },
             ],
             copyright: `Copyright © ${new Date().getFullYear()} mzkil, Inc. Built with Docusaurus.`,
         },
