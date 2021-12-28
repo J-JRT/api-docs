@@ -5,11 +5,11 @@ sidebar_position: 1
 # List Leageu of Legends
 
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/lol/list
+    https://mzkapi.me/lol/list
 ```
 ## Return data
 
-```jsx title="https://mzkil-api.herokuapp.com/lol/list"
+```jsx title="https://mzkapi.me/lol/list"
 {
     "count": 159,
     "champ_names": [

@@ -5,12 +5,12 @@ sidebar_position: 3
 # VuaTiengViet
 
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/game/vuatiengviet?keyword=`text`
+    https://mzkapi.me/game/vuatiengviet?keyword=`text`
 ```
 
 ## Return data
 
-```jsx title="/game/vuatiengviet?keyword=con cò"
+```jsx title="https://mzkapi.me/game/vuatiengviet?keyword=HI"
 {
     Comming soon
 }

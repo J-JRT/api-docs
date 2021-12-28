@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Return data
 
-```jsx title="https://mzkil-api.herokuapp.com/game/dhbcv1"
+```jsx title="https://mzkapi.me/game/dhbcv1"
 {
     "dataGame": {
         "tukhoa": "tích lũy",

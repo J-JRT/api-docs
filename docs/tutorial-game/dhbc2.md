@@ -7,7 +7,7 @@ sidebar_position: 2
 
 ## Return data
 
-```jsx title="https://mzkil-api.herokuapp.com/game/dhbcv2"
+```jsx title="https://mzkapi.me/game/dhbcv2"
 {
     "dataGame": {
         "tukhoa": "cá mập",

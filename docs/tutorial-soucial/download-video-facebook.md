@@ -5,10 +5,10 @@ sidebar_position: 4
 # Dowload video Facebook v2
 
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/v2/fbget?url=`url`
+    https://mzkapi.me/v2/fbget?url=`url`
 ```
 ## Return data
-```jsx title="https://mzkil-api.herokuapp.com/v2/fbget?url=<url> (download được stories)" 
+```jsx title="https://mzkapi.me/v2/fbget?url=<url> (download được stories)" 
 {
     "data": {
         "url": "https://www.facebook.com/100006556926300/videos/418503743329903/",

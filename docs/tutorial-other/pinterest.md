@@ -5,10 +5,10 @@ sidebar_position: 1
 # Pinterest
 
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/pinterest?search=`keyword`
+    https://mzkapi.me/pinterest?search=`keyword`
 ```
 ## Return data
-```jsx title="https://mzkil-api.herokuapp.com/pinterest?search=mirai"
+```jsx title="https://mzkapi.me/pinterest?search=mirai"
 {
     "count": 59,
     "data": [

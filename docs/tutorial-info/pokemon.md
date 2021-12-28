@@ -5,11 +5,11 @@ sidebar_position: 1
 # Info Pokemon
 
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/pokemon/search?=`keyword`
+    https://mzkapi.me/pokemon/search?=`keyword`
 ```
 ## Return data
 
-```jsx title="https://mzkil-api.herokuapp.com/pokemon/search?name=Pikachu"
+```jsx title="https://mzkapi.me/pokemon/search?name=Pikachu"
 {
     "pokemon": {
         "id": 25,

@@ -6,15 +6,15 @@ sidebar_position: 2
 
 **SEACRCH VIDEO**
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/youtube?q=`key_search`
+    https://mzkapi.me/youtube?q=`key_search`
 ```
 **SEACRCH PAGE**
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/youtube?page=`key_search`
+    https://mzkapi.me/youtube?page=`key_search`
 ```
 
 ## RETURN DATA
-```jsx title="https://mzkil-api.herokuapp.com/youtube/?q=yeu5"
+```jsx title="https://mzkapi.me/youtube/?q=yeu5"
 {
     "results": [
         {
