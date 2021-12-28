@@ -5,10 +5,10 @@ sidebar_position: 3
 # Dowload video Facebook
 
 ```jsx title="API Endpoint:"
-    https://mzkapi.me/videodownload?url=`url`
+    http://mzkapi.me/videodownload?url=`url`
 ```
 ## Return data
-```jsx title="https://mzkapi.me/videodownload?url=<link_url>(download được tất cả video)" 
+```jsx title="http://mzkapi.me/videodownload?url=<link_url>(download được tất cả video)" 
 {
     "status": 200,
     "data": {

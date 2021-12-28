@@ -6,11 +6,11 @@ sidebar_position: 1
 
 **SEACRCH VIDEO**
 ```jsx title="API Endpoint:"
-    https://mzkapi.me/?url=`link_video_url`
+    http://mzkapi.me/?url=`link_video_url`
 ```
 ## Return data
 
-```jsx title="https://mzkapi.me/?url=https://www.tiktok.com/@h_chaukiuu/video/7036389476976889090?sender_device=pc&sender_web_id=7018051020598380033&is_from_webapp=v1&is_copy_url=0"
+```jsx title="http://mzkapi.me/?url=https://www.tiktok.com/@h_chaukiuu/video/7036389476976889090?sender_device=pc&sender_web_id=7018051020598380033&is_from_webapp=v1&is_copy_url=0"
 {
     "status": "200",
     "video_no_watermark": "https://v16m-default.akamaized.net/f85d926aa57ed4447709068944319f40/61c4fd25/video/tos/alisg/tos-alisg-pve-0037/e6aedd647c714f33bf576a03f0d208c3/?a=0&br=5690&bt=2845&cd=0%7C0%7C0&ch=0&cr=0&cs=0&cv=1&dr=0&ds=6&er=&ft=x~NuD4mjgp5Inz7T&l=20211223165002010251003189114D882D&lr=all&mime_type=video_mp4&net=0&pl=0&qs=0&rc=anZvNjY6ZnZqOjMzODgzNEApOWllaDUzZWU3N2dlZGc0Omc2Nms2cjQwbS5gLS1kLy1zc2MwYzIzYGE1Mi1jXi4uMi86Yw%3D%3D&vl=&vr=",

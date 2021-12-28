@@ -5,11 +5,11 @@ sidebar_position: 2
 # Champion Leageu of Legends
 
 ```jsx title="API Endpoint:"
-    https://mzkil-api.herokuapp.com/lol?champion=`keyword`
+    http://mzkapi.me/lol?champion=`keyword`
 ```
 ## Return data
 
-```jsx title="https://mzkil-api.herokuapp.com/lol?champion=yasuo"
+```jsx title="http://mzkapi.me/lol?champion=yasuo"
 {
     "name": "Yasuo",
     "hp": 490,

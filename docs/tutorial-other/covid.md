@@ -5,10 +5,10 @@ sidebar_position: 1
 # Covid
 
 ```jsx title="API Endpoint:"
-    https://mzkapi.me/covid/country?=`keyword`
+    http://mzkapi.me/covid/country?=`keyword`
 ```
 ## Return data
-```jsx title="https://mzkapi.me/covid?country=viet%20nam"
+```jsx title="http://mzkapi.me/covid?country=viet%20nam"
 {
     "data": {
         "quocgia": "Vietnam",

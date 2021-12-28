@@ -6,11 +6,11 @@ sidebar_position: 2
 
 **SEACRCH VIDEO**
 ```jsx title="API Endpoint:"
-    https://mzkapi.me/sim?type=teach&ask=`<hỏi>`&ans=`<trả lời>`&by=`Name`
+    http://mzkapi.me/sim?type=teach&ask=`<hỏi>`&ans=`<trả lời>`&by=`Name`
 ```
 
 ## RETURN DATA
-```jsx title="https://mzkapi.me/sim?type=teach&ask=Hi&ans=Hi, chào cậu&by=MạnhG"
+```jsx title="http://mzkapi.me/sim?type=teach&ask=Hi&ans=Hi, chào cậu&by=MạnhG"
 {
     "msg": "Dạy sim thành công",
     "data": {

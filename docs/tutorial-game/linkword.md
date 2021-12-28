@@ -5,12 +5,12 @@ sidebar_position: 3
 # LinkWord
 
 ```jsx title="API Endpoint:"
-    https://mzkapi.me/game/linkword?word=`text`
+    http://mzkapi.me/game/linkword?word=`text`
 ```
 
 ## Return data
 
-```jsx title="https://mzkapi.me/game/linkword?word=con cò"
+```jsx title="http://mzkapi.me/game/linkword?word=con cò"
 {
     "data": {
         "error": false,

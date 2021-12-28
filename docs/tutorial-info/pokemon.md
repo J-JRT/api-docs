@@ -5,11 +5,11 @@ sidebar_position: 1
 # Info Pokemon
 
 ```jsx title="API Endpoint:"
-    https://mzkapi.me/pokemon/search?=`keyword`
+    http://mzkapi.me/pokemon/search?=`keyword`
 ```
 ## Return data
 
-```jsx title="https://mzkapi.me/pokemon/search?name=Pikachu"
+```jsx title="http://mzkapi.me/pokemon/search?name=Pikachu"
 {
     "pokemon": {
         "id": 25,
@@ -58,7 +58,7 @@ sidebar_position: 1
             ],
             "gender": "50:50"
         },
-        "image": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
+        "image": "http://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/025.png"
     },
     "author": "D-Jukie"
 }
