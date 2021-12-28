@@ -1,36 +1,56 @@
 ---
 sidebar_position: 1
 ---
-
 # Tutorial Intro
 
 Let's discover **API in less than 5 minutes**.
+### CREATE APIKEY
 
-## Get Soucial
+**Lưu ý:**
+
+**`- API bao gồm APIKEY premium và free`**
+
+**`- Lưu giữ APIKEY của bạn cẩn thận nhé`**
+```shell
+GET: https://mzkapi.me/apikey?type=register&name=`Name`
+```
+### RECOVERY KEY APIKEY
+```shell
+GET: https://mzkapi.me/apikey?type=recover&ip_address=`IP_address`
+```
+
+### CHECK APIKEY
+```shell
+GET: https://mzkapi.me/apikey?type=checker&apikey=`APIKEY`
+```
+### GET SIMSIMI
+```shell
+GET: https://mzkapi.me/sim?type=ask&ask=`text`
+```
+
+### GET SOUCIAL
 Keyword: facebook, instagram, tiktok, youtube...
 ```shell
-GET: https://mzkil-api.herokuapp.com/`keyword`?url=`url`
+GET: https://mzkapi.me/`keyword`?url=`url`
 ```
-## Random Images
+
+### RANDOM IMAGES
 Keyword: girl, ausand, mong, du, naughty...
 ```shell
 GET: https://imgs-api.herokuapp.com/`keyword`/?apikey=`mk001`
 or
-GET: https://mzkil-api.herokuapp.com/images/`keyword`
+GET: https://mzkapi.me/images/`keyword`
 ```
-
-## Game
-
+### GAME
 Keyword: dhbc, dovui, linkword...
 
 ```shell
-GET: https://mzkil-api.herokuapp.com/game/`keyword`
+GET: https://mzkapi.me/game/`keyword`
 ```
 
-## Other
-
+### OTHER
 Keyword: anime, nhentai...
 
 ```shell
-GET: https://mzkil-api.herokuapp.com/other/`keyword`
+GET: https://mzkapi.me/other/`keyword`
 ```
