@@ -8,11 +8,9 @@ sidebar_position: 1
 
 ```jsx title="http://mzkapi.me/game/dhbcv1"
 {
-    "dataGame": {
-        "tukhoa": "tích lũy",
-        "sokitu": "☐☐☐☐ ☐☐☐",
-        "suggestions": "T☐☐☐ L☐☐",
-        "link": "https://i.imgur.com/7foAlzs.jpg"
-    }
+    "tukhoa": "ca dao",
+    "sokitu": "☐☐ ☐☐☐",
+    "suggestions": "C☐ D☐☐",
+    "link": "https://i.imgur.com/zY6OJCq.jpg"
 }
 ```
