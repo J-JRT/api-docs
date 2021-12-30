@@ -8,7 +8,7 @@ sidebar_position: 4
     http://mzkapi.me/game/linkword?word=`text`
 ```
 
-## Return data
+### RETURN DATA
 
 ```jsx title="http://mzkapi.me/game/linkword?word=con cò"
 {

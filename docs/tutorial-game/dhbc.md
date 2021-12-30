@@ -3,8 +3,10 @@ sidebar_position: 1
 ---
 
 # ĐHBC1
-
-## Return data
+```jsx title="API Endpoint:"
+    http://mzkapi.me/game/dhbcv1
+```
+### RETURN DATA
 
 ```jsx title="http://mzkapi.me/game/dhbcv1"
 {

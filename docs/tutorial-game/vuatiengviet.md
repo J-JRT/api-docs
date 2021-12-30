@@ -1,17 +1,13 @@
 ---
 sidebar_position: 5
 ---
+# Vuatiengviet
 
-# VuaTiengViet
 
-```jsx title="API Endpoint:"
-    http://mzkapi.me/game/vuatiengviet?keyword=`text`
-```
+**Use: **http://mzkapi.me/vuatiengviet/image?word= `text`
 
-## Return data
-
-```jsx title="http://mzkapi.me/game/vuatiengviet?keyword=HI"
+```jsx title="http://mzkapi.me/vuatiengviet/image?word=yêu em không"
 {
-    Comming soon
+    return Images
 }
 ```
