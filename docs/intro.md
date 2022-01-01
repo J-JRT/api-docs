@@ -8,8 +8,6 @@ Let's discover **API in less than 5 minutes**.
 
 **Lưu ý:**
 
-**`- API bao gồm APIKEY premium và free`**
-
 **`- Lưu giữ APIKEY của bạn cẩn thận nhé`**
 ```shell
 GET: http://mzkapi.me/apikey?type=register&name=`Name`
