@@ -3,13 +3,11 @@ sidebar_position: 2
 ---
 # Simsimi Teach
 
-
-**SEACRCH VIDEO**
 ```jsx title="API Endpoint:"
     http://mzkapi.me/sim?type=teach&ask=`<hỏi>`&ans=`<trả lời>`&by=`Name`
 ```
 
-## RETURN DATA
+### RETURN DATA
 ```jsx title="http://mzkapi.me/sim?type=teach&ask=Hi&ans=Hi, chào cậu&by=MạnhG"
 {
     "msg": "Dạy sim thành công",
