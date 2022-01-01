@@ -6,7 +6,7 @@ sidebar_position: 5
 
 **Use: **http://mzkapi.me/tiki?text= `keyword`
 
-```jsx title="http://mzkapi.me/tiki?text=Lục Phá Đá"
+```jsx title="http://mzkapi.me/tiki?text=MạnhG"
 {
     return Images
 }

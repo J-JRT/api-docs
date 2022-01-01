@@ -6,7 +6,7 @@ sidebar_position: 7
 
 **Use: **http://mzkapi.me/taoanhdep/list
 
-```jsx title="http://mzkapi.me/taoanhdep/avatarwibu?id=5&chu_nen=phamvandien&chu_ky=d-jukie"
+```jsx title="http://mzkapi.me/taoanhdep/avatarwibu?id=5&chu_nen=MạnhICT&chu_ky=MạnhG"
 {
     "listAnime": [
         {
