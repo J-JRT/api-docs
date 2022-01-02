@@ -5,7 +5,7 @@ sidebar_position: 1
 # Info User Facebook
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/facebook/info?uid?=`ID`
+    http://mzkapi.me/facebook/info?uid=`ID`
 ```
 ## Return data
 
