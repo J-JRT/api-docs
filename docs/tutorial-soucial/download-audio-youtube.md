@@ -5,7 +5,7 @@ sidebar_position: 6
 # Dowload audio Youtube
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/sing?link=`link_url`
+    http://mzkapi.me/sing?link=`link_url`&apikey=`API_KEY`
 ```
 ## Return data
 ```jsx title="http://mzkapi.me/sing?link=https://www.youtube.com/watch?v=Zmt2lZfCoMs" 

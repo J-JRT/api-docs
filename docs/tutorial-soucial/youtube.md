@@ -6,11 +6,11 @@ sidebar_position: 2
 
 **SEACRCH VIDEO**
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/youtube?q=`key_search`
+    http://mzkapi.me/youtube?q=`key_search`&apikey=`API_KEY`
 ```
 **SEACRCH PAGE**
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/youtube?page=`key_search`
+    http://mzkapi.me/youtube?page=`key_search`&apikey=`API_KEY`
 ```
 
 ## RETURN DATA
