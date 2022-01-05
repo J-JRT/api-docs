@@ -9,5 +9,70 @@ sidebar_position: 9
 ```
 ## Return data
 ```jsx title="http://ac.mp3.zing.vn/complete?type=artist,song,key,code&num=500&query=Anh Thế Giới Và Em"
-{"result":true,"data":[{"song":[{"thumb":"covers/c/2/c2522eb472fd5a39518ff02fdd8590a9_1496197004.jpg","artist":"Hương Tràm","artistIds":"IWZ997CC","duration":"266","block":"false","id":"ZW7FDBA8","hasVideo":"true","streamingStatus":"1","thumbVideo":"thumb_video/7/8/788c29f02914846aca8a006e9dabc636_1507371612.jpg","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEFDI06Z","zing_choice":"false","name":"Anh Thế Giới Và Em","disDPlatform":"0"},{"thumb":"covers/2/3/23e749f1100e0be855654f7f2db26fc2_1501661455.jpg","artist":"Thương Võ","artistIds":"IWZFEZIC","duration":"268","block":"false","id":"ZW80E0U6","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEFD6ZU9","zing_choice":"false","name":"Anh Thế Giới Và Em (Cover)","disDPlatform":"0"},{"thumb":"covers/c/2/c2522eb472fd5a39518ff02fdd8590a9_1496197004.jpg","artist":"Hương Tràm","artistIds":"IWZ997CC","duration":"267","block":"false","id":"ZW7FEEOF","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEFDIOB0","zing_choice":"false","name":"Anh Thế Giới Và Em (Beat)","disDPlatform":"0"},{"thumb":"covers/5/c/5cc6fbcaadd8490cd680c81cdcde64db_1453021872.jpg","artist":"Tuấn Hưng","artistIds":"IWZ9ZOC0","duration":"273","block":"false","id":"ZW7O8A8C","hasVideo":"true","streamingStatus":"1","thumbVideo":"thumb_video/9/e/2/8/9e2886b27c4df388b7a861ea7912803b.jpg","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEFWC7EC","zing_choice":"false","name":"Thế Giới Và Em, Anh Chọn Em","disDPlatform":"0"},{"thumb":"cover/2/9/d/9/29d9c5d53aaa57319f3a8acb6f5a4d9c.jpg","artist":"Thiên Dũng, Trịnh Đình Quang","artistIds":"IWZA0A00,IWZAODD8","duration":"322","block":"false","id":"ZWADZEU0","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZF0BAFOE","zing_choice":"false","name":"Thế Giới Anh Và Em Khác Nhau","disDPlatform":"0"},{"thumb":"avatars/5/5/55687abf39a366a152b919c32a91fb50_1429857991.jpg","artist":"Khánh Phương","artistIds":"IWZ9ZIZI","duration":"331","block":"false","id":"ZWZBZCCW","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEC9Z87W","zing_choice":"false","name":"Rất Tiếc Anh Và Em 2 Thế Giới","disDPlatform":"0"},{"thumb":"cover/3/3/9/a/339a1a962c843d8b5d2ab8994d015f2b.jpg","artist":"Thiên Dũng, DJ Phan Hiếu","artistIds":"IWZA0A00,IWZAZA9C","duration":"245","block":"false","id":"ZWABOOUD","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,66","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZF0ACDB7","zing_choice":"false","name":"Thế Giới Anh Và Em Khác Nhau (Remix)","disDPlatform":"0"},{"thumb":"covers/5/c/5cc6fbcaadd8490cd680c81cdcde64db_1453021872.jpg","artist":"Tuấn Hưng","artistIds":"IWZ9ZOC0","duration":"273","block":"false","id":"ZW7OAWAU","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEFWE077","zing_choice":"false","name":"Thế Giới Và Em, Anh Chọn Em (Beat)","disDPlatform":"0"},{"thumb":"avatars/3/7/37d473e6ddd9a12d2adf7c748e2ee2ef_1286620603.jpg","artist":"Kim Tiểu Phương","artistIds":"IWZ9ZB8U","duration":"374","block":"false","id":"ZWZBZDU0","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEC9Z8FC","zing_choice":"false","name":"Em Và Anh Hai Thế Giới","disDPlatform":"0"},{"thumb":"cover/2/9/d/9/29d9c5d53aaa57319f3a8acb6f5a4d9c.jpg","artist":"Thiên Dũng, Trịnh Đình Quang","artistIds":"IWZA0A00,IWZAODD8","duration":"322","block":"false","id":"ZWAD6D0O","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZF0BBOEI","zing_choice":"false","name":"Thế Giới Anh Và Em Khác Nhau (Beat)","disDPlatform":"0"},{"thumb":"covers/6/1/61e3bb149e32eb17660ecc5c1276faa6_1341417681.jpg","artist":"Khánh Phương","artistIds":"IWZ9ZIZI","duration":"331","block":"false","id":"ZW60FADW","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,12109","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEDWWUCB","zing_choice":"false","name":"Rất Tiếc Anh Và Em Hai Thế Giới","disDPlatform":"0"},{"thumb":"covers/2/7/2760735506a5bc187a35f6c829fae70d_1303390456.jpg","artist":"Kim Tiểu Phương","artistIds":"IWZ9ZB8U","duration":"374","block":"false","id":"ZWZB97W0","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZECAF9ZW","zing_choice":"false","name":"Anh Và Em 2 Thế Giới","disDPlatform":"0"},{"thumb":"covers/d/5/d5acdf5130c8f2ec768fee67f29142ff_1323229986.jpg","artist":"Hoàng Anh","artistIds":"IWZ96EWC","duration":"310","block":"false","id":"ZWZE90E7","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZECFDIUB","zing_choice":"false","name":"Anh Và Em Hai Thế Giới","disDPlatform":"0"},{"thumb":"avatars/d/a/dab4363bcda7c86535808754cffd5783_1336324499.jpg","artist":"Hà Vy","artistIds":"IWZ9ZEWZ","duration":"255","block":"false","id":"ZWZBUIEO","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZEC9OBZI","zing_choice":"false","name":"Thế Giới Anh Và Em","disDPlatform":"0"},{"thumb":"cover/3/3/9/a/339a1a962c843d8b5d2ab8994d015f2b.jpg","artist":"Thiên Dũng, DJ Phan Hiếu","artistIds":"IWZA0A00,IWZAZA9C","duration":"245","block":"false","id":"ZWABOOUC","hasVideo":"false","streamingStatus":"1","thumbVideo":"","genreIds":"1,8,66","disable_platform_web":"false","disSPlatform":"0","is_official":"true","radioPid":"ZF0ACDB6","zing_choice":"false","name":"Thế Giới Anh Và Em Khác Nhau (Remix) (Beat)","disDPlatform":"0"}]}]}
+{
+	"result": true,
+	"data": [{
+		"song": [{
+			"thumb": "covers/c/2/c2522eb472fd5a39518ff02fdd8590a9_1496197004.jpg",
+			"artist": "Hương Tràm",
+			"artistIds": "IWZ997CC",
+			"duration": "266",
+			"block": "false",
+			"id": "ZW7FDBA8",
+			"hasVideo": "true",
+			"streamingStatus": "1",
+			"thumbVideo": "thumb_video/7/8/788c29f02914846aca8a006e9dabc636_1507371612.jpg",
+			"genreIds": "1,8,12109",
+			"disable_platform_web": "false",
+			"disSPlatform": "0",
+			"is_official": "true",
+			"radioPid": "ZEFDI06Z",
+			"zing_choice": "false",
+			"name": "Anh Thế Giới Và Em",
+			"disDPlatform": "0"
+		}, {
+			"thumb": "covers/2/3/23e749f1100e0be855654f7f2db26fc2_1501661455.jpg",
+			"artist": "Thương Võ",
+			"artistIds": "IWZFEZIC",
+			"duration": "268",
+			"block": "false",
+			"id": "ZW80E0U6",
+			"hasVideo": "false",
+			"streamingStatus": "1",
+			"thumbVideo": "",
+			"genreIds": "1,8,12109",
+			"disable_platform_web": "false",
+			"disSPlatform": "0",
+			"is_official": "true",
+			"radioPid": "ZEFD6ZU9",
+			"zing_choice": "false",
+			"name": "Anh Thế Giới Và Em (Cover)",
+			"disDPlatform": "0"
+		}, 
+        
+        
+        ................
+        
+        
+        {
+			"thumb": "cover/3/3/9/a/339a1a962c843d8b5d2ab8994d015f2b.jpg",
+			"artist": "Thiên Dũng, DJ Phan Hiếu",
+			"artistIds": "IWZA0A00,IWZAZA9C",
+			"duration": "245",
+			"block": "false",
+			"id": "ZWABOOUC",
+			"hasVideo": "false",
+			"streamingStatus": "1",
+			"thumbVideo": "",
+			"genreIds": "1,8,66",
+			"disable_platform_web": "false",
+			"disSPlatform": "0",
+			"is_official": "true",
+			"radioPid": "ZF0ACDB6",
+			"zing_choice": "false",
+			"name": "Thế Giới Anh Và Em Khác Nhau (Remix) (Beat)",
+			"disDPlatform": "0"
+		}]
+	}]
+}
 ```
