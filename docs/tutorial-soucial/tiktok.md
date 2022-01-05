@@ -4,7 +4,6 @@ sidebar_position: 1
 
 # Soucial TikTok
 
-**SEACRCH VIDEO**
 ```jsx title="API Endpoint:"
     https://api-tikget.herokuapp.com/?url=`link_video_url`
 ```
