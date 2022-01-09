@@ -1,11 +1,11 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# Download All Video
+# Download All Video Link
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/videodownload?link==`link_video_url`
+    http://mzkapi.me/videodownload?link=`link_video_url`
 ```
 ## Return data
 

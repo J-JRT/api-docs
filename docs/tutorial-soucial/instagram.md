@@ -5,7 +5,7 @@ sidebar_position: 1
 # Instagram Download
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/igdownload?link==`link_video_url`
+    http://mzkapi.me/igdownload?link=`link_url`
 ```
 ## Return data
 

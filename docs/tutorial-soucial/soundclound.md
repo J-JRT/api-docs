@@ -5,7 +5,7 @@ sidebar_position: 1
 # Soundcloud download
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/scdl?link==`link_video_url`
+    http://mzkapi.me/scdl?link=`link_url`
 ```
 ## Return data
 
