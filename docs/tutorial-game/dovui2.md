@@ -5,11 +5,11 @@ sidebar_position: 3
 # Dovui v1
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/game/dovuiv1
+    http://mzkapi.me/game/dovuiv2
 ```
 
 ### RETURN DATA
-```jsx title="http://mzkapi.me/game/dovui"
+```jsx title="http://mzkapi.me/game/dovuiv2"
 {
     "question": "Câu 18: Con trai và con chim khác nhau chủ yếu ở điểm nào",
     "option": [

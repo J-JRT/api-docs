@@ -5,19 +5,21 @@ sidebar_position: 3
 # Dovui
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/game/dovui
+    http://mzkapi.me/game/dovuiv1
 ```
 
 ### RETURN DATA
-```jsx title="http://mzkapi.me/game/dovui"
+```jsx title="http://mzkapi.me/game/dovuiv1"
 {
-    "question": "Câu 18: Con trai và con chim khác nhau chủ yếu ở điểm nào",
-    "option": [
-        "Môi trường sống",
-        "Đôi chân",
-        "Cái đầu",
-        "Cái tay"
-    ],
-    "correct": 1
+    "count": 13,
+    "data": {
+        "cauhoi": "Cây khô một lá bốn năm cành. Đường đi khúc khuỷu nhọc tay anh. Gặp kẻ tiểu nhân buồn chẳng nói. Chờ người quân tử mới dương danh. Là gì?",
+        "a": "A. Cây đàn",
+        "b": "B. Sáo",
+        "c": "C. Trống",
+        "d": "D. Giàn DJ",
+        "dapan1": "A",
+        "dapan2": "Cây đàn"
+    }
 }
 ```

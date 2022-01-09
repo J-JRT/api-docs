@@ -10,7 +10,7 @@ Let's discover **API in less than 5 minutes**.
 
 **`- Lưu giữ APIKEY của bạn cẩn thận nhé`**
 ```shell
-GET: Comming soon
+GET: http://mzkapi.me/apikey?type=register&name=`Name`
 ```
 ### RECOVERY KEY APIKEY
 ```shell
