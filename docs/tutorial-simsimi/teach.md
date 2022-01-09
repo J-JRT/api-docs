@@ -4,7 +4,7 @@ sidebar_position: 2
 # Simsimi Teach
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/sim?type=teach&ask=`<hỏi>`&ans=`<trả lời>`&by=`Name`?apikey=`API_Key`
+    http://mzkapi.me/sim?type=teach&ask=`<hỏi>`&ans=`<trả lời>`&by=`Name`&apikey=`API_Key`
 ```
 
 ### RETURN DATA
