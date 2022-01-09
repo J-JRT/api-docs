@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Dovui v1
+# Dovui v2
 
 ```jsx title="API Endpoint:"
     http://mzkapi.me/game/dovuiv2
