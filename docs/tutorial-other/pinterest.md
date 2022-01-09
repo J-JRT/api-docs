@@ -5,7 +5,7 @@ sidebar_position: 1
 # Pinterest
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/pinterest?search=`keyword`
+    http://mzkapi.me/print?search=`keyword`
 ```
 ## Return data
 ```jsx title="http://mzkapi.me/pinterest?search=mirai"
