@@ -9,7 +9,7 @@ sidebar_position: 1
 ```
 ## Return data
 
-```jsx title="http://mzkapi.me/facebook/info?uid=100049354060779"&apikey=`API_Key`
+```jsx title="http://mzkapi.me/facebook/info?uid=100049354060779&apikey=API_Key"
 {
     "author": "MạnhG",
     "data": {
