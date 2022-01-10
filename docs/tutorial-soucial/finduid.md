@@ -8,7 +8,7 @@ sidebar_position: 1
     http://mzkapi.me/finduid?url=`url profile, story, post, video,...`&apikey=`API_Key`
 ```
 ## Return data
-```jsx title="http://mzkapi.me/finduid?url=http://www.facebook.com/duonggg216"&apikey=`API_Key`
+```jsx title="http://mzkapi.me/finduid?url=http://www.facebook.com/duonggg216&apikey=API_Key"
 {
     "success": 200,
     "id": 100049354060779,

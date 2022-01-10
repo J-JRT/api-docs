@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Pinterest
+# Pinterest v2
 
 ```jsx title="API Endpoint:"
     http://mzkapi.me/print?search&query=`keyword`

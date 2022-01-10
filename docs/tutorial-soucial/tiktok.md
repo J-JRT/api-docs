@@ -2,10 +2,10 @@
 sidebar_position: 1
 ---
 
-# Soucial TikTok
+# TikTok Download Video 
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/tiktok?link==`link_video_url`
+    http://mzkapi.me/tiktok?link=`link_video_url`
 ```
 ## Return data
 

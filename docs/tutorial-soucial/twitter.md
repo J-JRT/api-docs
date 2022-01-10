@@ -5,7 +5,7 @@ sidebar_position: 1
 # Twitter Download
 
 ```jsx title="API Endpoint:"
-    http://mzkapi.me/twitter?link==`link_video_url`
+    http://mzkapi.me/twitter?link=`link_video_url`
 ```
 ## Return data
 

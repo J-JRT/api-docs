@@ -14,7 +14,7 @@ sidebar_position: 2
 ```
 
 ## RETURN DATA
-```jsx title="http://mzkapi.me/youtube/?q=yeu5"
+```jsx title="http://mzkapi.me/youtube/?q=yeu5&apikey= `API_KEY`"
 {
     "results": [
         {

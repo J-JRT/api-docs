@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Dowload video Facebook v3
+# Facebook Dowload Video v3
 
 ```jsx title="API Endpoint:"
     http://mzkapi.me/fbvideo/v3?url=`url`
