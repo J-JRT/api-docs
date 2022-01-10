@@ -4,11 +4,10 @@ sidebar_position: 1
 # Tutorial Intro
 
 Let's discover **API in less than 5 minutes**.
+
+**Click vào liên kết để xem key của bạn:**  http://mzkapi.me/viewsKey
 ### CREATE APIKEY
 
-**Lưu ý:**
-
-**`- Lưu giữ APIKEY của bạn cẩn thận nhé`**
 ```shell
 GET: http://mzkapi.me/apikey?type=register&name=`Name`
 ```
