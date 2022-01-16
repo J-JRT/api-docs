@@ -3,7 +3,7 @@ sidebar_position: 1
 ---
 # Random Images
 
-**See details on how to use it at:** `http://imgs-api.herokuapp.com`
+**See details on how to use it at:** http://imgs-api.herokuapp.com
 ```jsx title="API Endpoint:"
       http://imgs-api.herokuapp.com/`keyword`?apikey=`API_KEY`
 
