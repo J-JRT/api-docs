@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# List Leageu of Legends
+# List League of Legends
 
 ```jsx title="API Endpoint:"
    http://mzkapi.me/lol/list
