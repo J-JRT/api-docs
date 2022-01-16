@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Champion Leageu of Legends
+# Champion League of Legends
 
 ```jsx title="API Endpoint:"
     http://mzkapi.me/lol?champion=`keyword`
