@@ -19,6 +19,8 @@ sidebar_position: 1
 ## RETURN DATA
 
 ```jsx title="https://imgs-api.herokuapp.com/girl?apikey=test"
+```jsx title="http://manhict.tech/images?apikey=KeyTest"
+```jsx title=" http://mzkapi.me/images?apikey=KeyTest"
 {
   "code": 200,
   "url": "https://i.imgur.com/Gq4qoSz.jpg",
