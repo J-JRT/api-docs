@@ -35,8 +35,10 @@ GET: http://mzkapi.me/`keyword`?url=`url`
 Keyword: girl, ausand, mong, du, naughty...
 ```shell
 GET: http://imgs-api.herokuapp.com/`keyword`/?apikey=`mk001`
-or
+
 GET: http://mzkapi.me/images/`keyword`
+
+GET: http://manhict.tech/images/`keyword`
 ```
 ### GAME
 Keyword: dhbc, dovui, linkword...
