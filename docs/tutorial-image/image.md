@@ -8,8 +8,6 @@ sidebar_position: 1
       http://imgs-api.herokuapp.com/`keyword`?apikey=`API_KEY`
 
       http://mzkapi.me/images/`keyword`
-      
-      http://manhict.tech/images/`keyword`
 ```
 
 **Keyword:** girl, du, mong, capdoi, gainhat, hana, ausand, jimmy, jack, khanhuyen, lebong, linhngocdam, ngoctrinh, naughty, japcosplay, loli, tw, nsfw, anime, aqua, chitanda, kana, kurumi, lucy, mirai, rem, sagiri, umaru, rushia, melf, hubu
